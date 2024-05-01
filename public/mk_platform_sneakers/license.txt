@@ -1,0 +1,11 @@
+Model Information:
+* title:	MK Platform Sneakers
+* source:	https://sketchfab.com/3d-models/mk-platform-sneakers-7716264d753243169d86ed0df6a90a66
+* author:	p1xfx (https://sketchfab.com/p1xfx)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MK Platform Sneakers" (https://sketchfab.com/3d-models/mk-platform-sneakers-7716264d753243169d86ed0df6a90a66) by p1xfx (https://sketchfab.com/p1xfx) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

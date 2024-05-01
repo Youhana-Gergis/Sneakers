@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Man Shoes
+* source:	https://sketchfab.com/3d-models/old-man-shoes-17a377d9ed0b40a49e2f51384006337a
+* author:	hwa021216 (https://sketchfab.com/hwa021216)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Man Shoes" (https://sketchfab.com/3d-models/old-man-shoes-17a377d9ed0b40a49e2f51384006337a) by hwa021216 (https://sketchfab.com/hwa021216) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
