@@ -1,0 +1,11 @@
+Model Information:
+* title:	Warrior Sneaker
+* source:	https://sketchfab.com/3d-models/warrior-sneaker-d0dad6d7a7734d7fb7cf814282fd298b
+* author:	kunyong_Chen (https://sketchfab.com/kunyong_Chen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Warrior Sneaker" (https://sketchfab.com/3d-models/warrior-sneaker-d0dad6d7a7734d7fb7cf814282fd298b) by kunyong_Chen (https://sketchfab.com/kunyong_Chen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
